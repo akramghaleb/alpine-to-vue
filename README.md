@@ -68,7 +68,7 @@ The transform needs to be added to the child element and can be removed from the
 
 ```html
 <transition
-    enter-class="ease-out duration-200"
+    enter-active-class="ease-out duration-200"
     enter-from-class="opacity-0 scale-95">
         <div v-show="open" class="transform">...</div>
 </transition>
