@@ -55,7 +55,7 @@ Vue's `<transition>` component allows you to add the classes to apply to the chi
 
 ```html
 <transition
-    enter-class="transition ease-out duration-200"
+    enter-active-class="transition ease-out duration-200"
     enter-from-class="transform opacity-0 scale-95">
         <div v-show="open">...</div>
 </transition>
