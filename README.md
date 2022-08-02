@@ -1,4 +1,4 @@
-# Converting Tailwind UI Alpine transitions to Vue transitions
+# Converting Alpine transitions to Vue transitions
 
 After you copy a component from the Tailwind UI library and begin to adapt it from Vue JS to Alpine JS .. you may wonder what to do about the transitions. As I'm exploring this myself, I am documenting it for others in the same boat.
 
